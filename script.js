@@ -1,0 +1,1 @@
+console.log("Site Hardware em Foco carregado!");
